@@ -1,0 +1,43 @@
+body
+{
+    background: #bdbdbd;
+}
+.material-icons
+{
+    color: red;
+}
+.android
+{
+    color: green;
+}
+.navegador
+{
+    marging:10px auto;
+}
+
+.nav-fixed
+{
+    background: white;
+}
+nav
+{
+    background: white;
+}
+.logo
+{
+    margin: 0px 15px;
+    padding: 10px auto;
+}
+img
+{
+    height: 250px;
+    width: 150px;
+}
+.page-footer
+{
+    background: white;
+}
+.footer-copyright
+{
+    background: blue;
+}
